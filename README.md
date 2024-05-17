@@ -6,25 +6,8 @@
 [<img src='https://www.codewars.com/users/noize-coder/badges/small'></img>](https://www.codewars.com/users/noize-coder/)
 
 <!-- Main statistics -->
-<table border-style='hidden'>
-  <thead>
-    <tr>
-      <th colspan="2">
-      <!-- Main statistics --><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilya-noize&amp;theme=github" alt="" />
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-      <!-- Stats --><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilya-noize&amp;theme=github" alt="" />
-      </td>
-      <td>
-      <!-- Commits --><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilya-noize&amp;theme=github&amp;utcOffset=8" alt="" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilya-noize&amp;theme=github" alt="" />
+<!-- Stats --> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilya-noize&amp;theme=github" alt="" /><!-- Commits --><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilya-noize&amp;theme=github&amp;utcOffset=8" alt="" />
 
 <!-- Counter -->
 ![](https://komarev.com/ghpvc/?username=ilya-noize)
