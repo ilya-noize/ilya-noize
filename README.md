@@ -1,7 +1,7 @@
 ### Hello everyone 👋 My name is Ilya.
-I am a Java developer.
-Let's get started.
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Java+Developer)](https://git.io/typing-svg)
+
 <img src='https://www.codewars.com/users/noize-coder/badges/small'></img>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilya-noize&theme=solarized_dark)
