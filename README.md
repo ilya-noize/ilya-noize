@@ -6,7 +6,7 @@
 [<img src='https://www.codewars.com/users/noize-coder/badges/small'></img>](https://www.codewars.com/users/noize-coder/)
 
 <!-- Main statistics -->
-<table>
+<table border="0">
   <thead>
     <tr>
       <th colspan="2">
