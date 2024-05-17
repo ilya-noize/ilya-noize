@@ -1,4 +1,13 @@
 ### Hi there 👋
+
+<img src='https://www.codewars.com/users/noize-coder/badges/small'/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+Developer)](https://git.io/typing-svg)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilya-noize&theme=solarized_dark)
+
+![](https://komarev.com/ghpvc/?username=ilya-noize)
+
 <img src='https://www.codewars.com/users/noize-coder/badges/small'></img>
 <!--
 **ilya-noize/ilya-noize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
