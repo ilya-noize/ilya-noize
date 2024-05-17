@@ -1,5 +1,5 @@
 # ✨ _special_ ✨ repository
-### Hello everyone 👋 My name is Ilya.
+### Hello everyone 👋 My name is Ilya Shumakov.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Java+Developer)](https://git.io/typing-svg)
 
@@ -7,7 +7,12 @@
 
 <!-- Main statistics -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilya-noize&amp;theme=github" alt="" />
-<!-- Stats --> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilya-noize&amp;theme=github" alt="" /><!-- Commits --><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilya-noize&amp;theme=github&amp;utcOffset=8" alt="" />
+
+<!-- Stats -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilya-noize&amp;theme=github" alt="" />
+
+<!-- Commits -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilya-noize&amp;theme=github&amp;utcOffset=8" alt="" />
 
 <!-- Counter -->
 ![](https://komarev.com/ghpvc/?username=ilya-noize)
