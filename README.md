@@ -1,7 +1,6 @@
-# ✨ _special_ ✨ repository
-### Hello everyone 👋 My name is Ilya Shumakov.
+# Hello everyone 👋 My name is Ilya Shumakov.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+Java+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+✨+Java+✨+developer.)](https://git.io/typing-svg)
 
 [<img src='https://www.codewars.com/users/noize-coder/badges/small'></img>](https://www.codewars.com/users/noize-coder/)
 
