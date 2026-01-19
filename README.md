@@ -8,7 +8,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilya-noize&amp;theme=github" alt="" />
 
 <!-- Stats -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilya-noize&amp;theme=github" alt="" />
+<!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilya-noize&amp;theme=github" alt="" />-->
 
 <!-- Commits -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilya-noize&amp;theme=github&amp;utcOffset=8" alt="" />
