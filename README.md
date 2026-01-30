@@ -4,13 +4,13 @@
 
 [<img src='https://www.codewars.com/users/noize-coder/badges/small'></img>](https://www.codewars.com/users/noize-coder/)
 
-<!-- Main statistics - ->
+<!-- Main statistics -- >
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilya-noize&amp;theme=github" alt="" />
 
-<!-- Stats - ->
+<!-- Stats -- >
 <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilya-noize&amp;theme=github" alt="" />-->
 
-<!-- Commits - ->
+<!-- Commits -- >
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilya-noize&amp;theme=github&amp;utcOffset=8" alt="" />
 
 <!-- Counter -->
